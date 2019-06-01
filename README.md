@@ -33,7 +33,7 @@ npm i url-loader -d
 //把生成的图片的名字返回回来  
 1) 在js中创建图片  
 2) 在css中引入backgroun('url')  
-3) <img src>  
+3) img标签
 
 npm i clean-webpack-plugin -D  
 npm i copy-webpack-plugin -D  
